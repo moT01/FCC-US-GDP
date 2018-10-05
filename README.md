@@ -1,5 +1,5 @@
 ## FCC-US-GDP
-##### Recipe Box project for [freecodecamp.com](https://www.freecodecamp.com/challenges/visualize-data-with-a-bar-chart)
+##### Recipe Box project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-US-GDP/)
 
 <br/>
